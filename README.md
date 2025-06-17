@@ -1,4 +1,4 @@
-# Scratch-Last-Login
+# glowinge
 
 ## Overview
 
@@ -11,7 +11,7 @@ Scratchで最終ログイン時間を簡単に自動表示してくれるシス�
 
 ## 導入方法
 
-1. [こちら](https://github.com/P-nutsK/Scratch-Last-login/archive/refs/heads/master.zip)のリンクからファイルをダウンロードします。
+1. [こちら](https://github.com/P-nutsK/glowinge/archive/refs/heads/master.zip)のリンクからファイルをダウンロードします。
 2. ダウンロードしたファイルをダブルクリックして解凍します。
 3. お使いのブラウザでchrome://extensions/ を開き、右上にあるデベロッパーツールのマークをオンにします(元々オンの場合はそのままで構いません。)
 ![Enable DevMode](https://P-nutsK.github.io/resource/chromium_devmode_button.png)
